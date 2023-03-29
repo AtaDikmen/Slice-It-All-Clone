@@ -5,7 +5,7 @@ I would like to share with you our first game that we made as a team within a li
 Team:
 - Ata Dikmen -> Game Developer
 
-- Görkem Asrın köksal -> Game Developer
+- Görkem Asrın Köksal -> Game Developer
 
 - Meltem R. Şimşek -> 3D Artist
 
