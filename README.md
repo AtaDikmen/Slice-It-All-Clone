@@ -12,3 +12,5 @@ Team:
 - Ceyda Mehveş Keklik -> 2D Artist
 
 - Faruk Çanyaka -> Game Designer
+
+Gameplay Video: https://www.youtube.com/watch?v=wtJPHm5_KHA&ab_channel=AtaDikmenGamePortfolio
